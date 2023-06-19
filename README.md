@@ -1,4 +1,4 @@
-## NewYork-AirBnb-Analysis  
+## NewYork-AirBnb-Analysis-Dashboard
 
 This project explores the Airbnb market in New York City, focusing on the various types of accommodations available and their associated costs. As a popular platform for travelers, Airbnb offers a unique experience that differs from traditional hotel stays, with many listings located in trendy neighborhoods.   
 
